@@ -1,4 +1,5 @@
 res.style.textAlign = 'center' //colocar controle de CSS fora de funções
+botão.style.textAlign = 'center'
 function verificar(){
     var data = new Date()
     var ano = data.getFullYear()
